@@ -1,1 +1,2 @@
 # CommitMessageLint
+hello
